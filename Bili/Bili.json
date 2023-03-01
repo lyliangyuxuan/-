@@ -10,16 +10,16 @@
             "type_id": "mt管理器"
         },
         {
-            "type_name": "Sports",
-            "type_id": "球星"
+            "type_name": "爬虫",
+            "type_id": "爬虫"
         },
         {
-            "type_name": "戏曲",
-            "type_id": "戏曲"
+            "type_name": "php",
+            "type_id": "php"
         },
         {
-            "type_name": "演唱会",
-            "type_id": "演唱会"
+            "type_name": "py",
+            "type_id": "python"
         },
         {
             "type_name": "动物世界",
