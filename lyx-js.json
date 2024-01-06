@@ -1,4 +1,4 @@
-{"spider":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/f.jar;md5;aeb168169682631c93874c9bd8a97e74"，
+{"spider":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/f.jar;md5;aeb168169682631c93874c9bd8a97e74",
  "sites":[
  
 {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/js/荐片.js","playerType":"1"}, 
@@ -19,7 +19,7 @@
 //{"key":"lbts","name":"老白[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/lbgs_open.js"},
 {"key":"yqk","name":"一起看[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/yqktv_open.js"},
 {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/ng_open.js"}，
-{"key":"subaibai","name":"素白白[cat]"，"type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/subaibai_open.js"},
+{"key":"subaibai","name":"素白白[cat]"，"type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/subaibai_open.js"}，
 {"key":"kunyu77","name":"琨娱七七[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/kunyu77_open.js"},
 {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/czzy_open.js"},
 {"key":"livbo","name":"荔波[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/MyCatLibvio.js"},
