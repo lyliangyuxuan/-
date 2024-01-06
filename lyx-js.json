@@ -1,6 +1,14 @@
 {"spider":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/f.jar;md5;aeb168169682631c93874c9bd8a97e74"，
  "sites":[
- {"key": "豆豆"，"name": "🌕富坤衡器【专业衡器】","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+  {
+      "key": "豆豆",
+      "name": "🌕富坤衡器🌕【专业衡器】",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/js/荐片.js","playerType":"1"}, 
 {"key":"drpy_js_量子资源","name":"影视 | 量子资源[js]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/js/量子资源.js"}, 
 {"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/lib/drpy.min.js","ext":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/js/JRKAN直播.js"},
@@ -18,7 +26,7 @@
 {"key":"jojo","name":"舟舟[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/jojo_open.js"},
 //{"key":"lbts","name":"老白[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/lbgs_open.js"},
 {"key":"yqk","name":"一起看[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/yqktv_open.js"},
-{"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/ng_open.js"},
+{"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/ng_open.js"}，
 {"key":"subaibai","name":"素白白[cat]"，"type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/subaibai_open.js"},
 {"key":"kunyu77","name":"琨娱七七[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/kunyu77_open.js"},
 {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"https://raw.githubusercontent.com/lyliangyuxuan/-/main/cat/czzy_open.js"},
