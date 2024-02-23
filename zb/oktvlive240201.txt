@@ -29,7 +29,9 @@
 25,https://apd-vlive.apdcdn.tc.qq.com/defaultts.tc.qq.com/vFC51O_q5rQ-L8R0lPpxxNfBtJ6IaMn_JxQhtxen7oe2BK11eh2hH2cswS3T78NFWa3f78JQpg-O7Bo_NwcQ9xyedcvMghQy_F8T5R27bnpKGP4zZcMkcjU5ojLXRcx4D8BUXy0sbJVbuQoCpa8Wog770UrLFYwSPd6K7Ipla6kQp8VA77xDsQ/gzc_1000102_0b53lyahoaaaamaoht3qdbsmaxwdo5kqa42a.f321003.ts.m3u8?ver=4
 26,https://apd-vlive.apdcdn.tc.qq.com/defaultts.tc.qq.com/tRP_C3m6WAJkGF9gQ0ji-TpJpnjPdcW7D4ncsGEcRQkq_ELFofCuPvNitfReRbcGwyjYEJuvkCFQu4mPKvGA77xgukc6ttKizHU1wLmeDg6fqOfP3XceZlDisumrB6ALkD9JjZi7adlW5d1WMSrRQDkhqkuTXiH30kovW9yVAknEJS8ng9ccXw/gzc_1000102_0b53leahoaaaaqaohsdqdbsmawodo5jaa42a.f321003.ts.m3u8?ver=4
 
-
+📡电影👉瑶瑶,#genre#
+熊出没·逆转时空，https://top.1080pzy.co/202402/12/EZPT0s0HBu3/video/index.m3u8
+熊出没·逆转时空，https://top.1080pzy.co/202402/12/EZPT0s0HBu3/video/1000k_0X720_64k_25/hls/index.m3u8
 📡春晚专线👉龙年,#genre#
 
 春晚线路👉全网,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://120.7.30.152:2024/live/CCTV1高清/index.m3u8
