@@ -8,7 +8,7 @@
 功夫熊猫,https://vip.ffzy-play2.com/20221021/185_cbb77bf7/index.m3u8
 
 
-📡经典电影👉瑶瑶,#genre#
+📡瑶瑶视频👉,#genre#
 迷你特攻队.汉堡大作战,https://ggjx.orangek.cn/cache/SN/e173b1db98dcc5ebcaf190a9ac23ce15.m3u8
 熊出没·逆转时空,https://top.1080pzy.co/202402/12/EZPT0s0HBu3/video/index.m3u8
 熊出没·逆转时空,https://top.1080pzy.co/202402/12/EZPT0s0HBu3/video/1000k_0X720_64k_25/hls/index.m3u8
@@ -76,7 +76,7 @@
 CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
-📡央视,#genre#
+📡央视直播👉,#genre#
 CCTV-1 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3 ,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
@@ -148,7 +148,7 @@ CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-📡卫视,#genre#
+📡卫视直播👉,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
@@ -183,7 +183,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 三沙卫视,http://118.254.203.236:8888/rtp/239.76.253.74:9000
-🇨🇳中国港澳,#genre#
+🇨🇳中国港澳👉,#genre#
 凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文频道,http://117.114.153.25:8180/TV00000000000000000069@HHZT
 凤凰中文频道,http://101.204.222.155:8000/udp/239.93.0.162:2192
@@ -530,6 +530,85 @@ CCTV17[ipv6],https://epg.pw/stream/678eec3ec8151c27eb362dbdc70bce12b75ce22b1ac99
 CCTV17[ipv6],https://epg.pw/stream/2dcb0915f9efa1a9d6895edafb8e144553f45f7115399abb19adac5c062ea1c3.m3u8
 CCTV17[ipv6],https://epg.pw/stream/b6866815f985fb51d1a8c195ef73afbd858d740c62358e35b9f665896b40dd91.m3u8
 NEWTV農業致富,https://epg.pw/stream/2788e28555be68dbdc18a2292ffc88dab10393973b808277fba0d97c9bf7bb26.m3u8
+        
+🇨🇳港澳闽备👉,#genre#
+中天新闻国,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+NOW新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
+HOY新闻台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337#http://8.134.88.173:9092/HK/hoy78/hls.m3u8#http://223.71.206.22:30080/HK/hoy78/hls.m3u8
+TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
+TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+HOY综合台,http://8.134.88.173:9092/HK/hoy77/hls.m3u8
+RTHK31台,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
+RTHK32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+天映频道台国,http://210.210.155.37/dr9445/h/h14/01.m3u8
+凤凰资讯高清,http://113.64.145.84:8081/hls/36/index.m3u8
+凤凰卫视高清,http://113.64.145.84:8081/hls/37/index.m3u8
+凤凰香港高清,http://113.64.145.84:8081/hls/38/index.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+澳视莲花台,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视卫星台,http://61.244.22.5/ch3/ch3.live/index.m3u8
+澳视综艺台,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
+澳视葡文台,http://61.244.22.5/ch2/ch2.live/index.m3u8
+澳门卫视台,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门体育台,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+澳门资讯台,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
+耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CGNTV台,http://live.cgtn.com/500/prog_index.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
+EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+民视闽南台,rtmp://f13h.mine.nu/sat/tv051
+中视闽南台,rtmp://f13h.mine.nu/sat/tv091
+台视闽南台,rtmp://f13h.mine.nu/sat/tv071
+华视闽南台,rtmp://f13h.mine.nu/sat/tv111
+东森超视台,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+纬来日本台,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+经典功夫台,http://43.138.170.29:35455/yy/1355002394
+重温经典台,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+美亚电影粤,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
+HOY78台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
+🏆视觉效果👉,#genre#
+3D1,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
+3D2,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
+3D3,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
+3D4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
+3D5,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
+3D大片,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
+3D电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
+3D裸眼,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
+3D裸眼2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
+长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
+终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
+3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
+3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
+功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
+龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
+视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
+东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
+生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
+艺术科技感,https://vd3.bdstatic.com/mda-ncrw9pciw60jymyd/sc/cae_h264_delogo/1648329992682771558/mda-ncrw9pciw60jymyd.mp4
+变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
+变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
+变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
+X战警:黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
+Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4        
 
 🏆体育频道👉全网,#genre#
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -581,84 +660,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线,http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_id=2376164747.n.cn-069f7p.14re_26504&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1%2F605964rzzgGEOZHr.flv%3FwsAuth%3D43ef2d796067cbec9c238c73235a1005%26token%3Dcpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay1&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-069f7p.14re.nss&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&vhost=tc-tct.douyucdn2.cn&wsAuth=43ef2d796067cbec9c238c73235a1005
-港澳闽备,#genre#
-中天新闻国,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-NOW新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
-HOY新闻台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337#http://8.134.88.173:9092/HK/hoy78/hls.m3u8#http://223.71.206.22:30080/HK/hoy78/hls.m3u8
-TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-TVB财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
-TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
-TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-HOY综合台,http://8.134.88.173:9092/HK/hoy77/hls.m3u8
-RTHK31台,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
-RTHK32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-天映频道台国,http://210.210.155.37/dr9445/h/h14/01.m3u8
-凤凰资讯高清,http://113.64.145.84:8081/hls/36/index.m3u8
-凤凰卫视高清,http://113.64.145.84:8081/hls/37/index.m3u8
-凤凰香港高清,http://113.64.145.84:8081/hls/38/index.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-澳视莲花台,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视卫星台,http://61.244.22.5/ch3/ch3.live/index.m3u8
-澳视综艺台,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
-澳视葡文台,http://61.244.22.5/ch2/ch2.live/index.m3u8
-澳门卫视台,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-澳门体育台,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-澳门资讯台,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CGNTV台,http://live.cgtn.com/500/prog_index.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
-EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-民视闽南台,rtmp://f13h.mine.nu/sat/tv051
-中视闽南台,rtmp://f13h.mine.nu/sat/tv091
-台视闽南台,rtmp://f13h.mine.nu/sat/tv071
-华视闽南台,rtmp://f13h.mine.nu/sat/tv111
-东森超视台,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
-经典功夫台,http://43.138.170.29:35455/yy/1355002394
-重温经典台,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-美亚电影粤,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-HOY78台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-视觉效果,#genre#
-3D1,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-3D2,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
-3D3,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
-3D4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
-3D5,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-3D大片,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
-3D电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
-3D裸眼,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
-3D裸眼2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
-长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
-终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
-3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
-3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
-功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
-龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
-视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
-东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
-生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-艺术科技感,https://vd3.bdstatic.com/mda-ncrw9pciw60jymyd/sc/cae_h264_delogo/1648329992682771558/mda-ncrw9pciw60jymyd.mp4
-变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
-变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
-X战警:黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
-Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
+
 📡春晚专线👉龙年,#genre#
 
 
