@@ -1,4 +1,4 @@
-奥运频道,#genre#
+奥运频道_aoyun,#genre#
 
 实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
