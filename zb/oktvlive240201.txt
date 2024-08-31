@@ -44,6 +44,7 @@ TVB-直播足球五,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u
 TVB-直播足球六,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 📡煜昊视频👉,#genre#
+山东教育卫视,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 孙煜昊美食节节高升,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTA5NjAvMjAyNDA3LzIxLzEwOTYwXzFMdkFTODZaX-e-jumjn-iKguiKgumrmOWNhy5tcDQ/%E7%BE%8E%E9%A3%9F%E8%8A%82%E8%8A%82%E9%AB%98%E5%8D%87.mp4?sign=tDUFemrr0sw3rGkp5TmPSZBBCe2hEb2kiCbQfHSIOZ4%3D%3A1721582171
 孙煜昊美食节节高升,https://cloud.lxweb.cn/f/Pg1OFb/%E5%AD%99%E7%85%9C%E6%98%8A%E7%BE%8E%E9%A3%9F%E8%8A%82%E8%8A%82%E9%AB%98%E5%8D%87.mp4
 读书分享-鲁滨逊漂流记,https://v.06dn.com/api/v3/slave/source/0/L3VwbG9hZHMvMTA5NjAvMjAyNDA3LzIxLzEwOTYwX0dUdEVqb0xpX-ivu-S5puWIhuS6qy3psoHmu6jpgIrmvILmtYHorrAubXA0/%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB-%E9%B2%81%E6%BB%A8%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0.mp4?sign=H3ykdUFRfNSki2EankMok0zzxdw0NWoj3kmL8ni8KVU%3D%3A1721582308
@@ -932,7 +933,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 黑龙江都市 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 鹤岗新闻综合 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 佳木斯新闻综合 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山东教育卫视,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
