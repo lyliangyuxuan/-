@@ -53,6 +53,7 @@ TVB-直播足球六,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u
 飞鸭向前冲,https://top.1080pzy.co/202402/01/yL8HP6C4ha3/video/index.m3u8
 飞鸭向前冲,https://top.1080pzy.co/202402/01/yL8HP6C4ha3/video/1000k_0X720_64k_25/hls/index.m3u8
 功夫熊猫,https://vip.ffzy-play2.com/20221021/185_cbb77bf7/index.m3u8
+狗阵,https://m3u8.hmrvideo.com/play/32809dcbd65e42218a20010634172377.m3u8
 
 
 📡瑶瑶视频👉,#genre#
